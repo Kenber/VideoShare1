@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="F:\Develop\Android\APPs\ForAS1.0\wonderful5\app\libs\com.umeng.message.lib.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="9140057eaca588de79a9c3d4ac47e188a3c0dc03">
+        <dex dex="F:\Develop\Android\APPs\ForAS1.0\wonderful5\app\build\intermediates\pre-dexed\debug\com.umeng.message.lib-cd8beddcf567f967055053e3c4b9a2af2585a0da.jar" />
+    </item>
+    <item
+        jar="F:\Develop\Android\APPs\ForAS1.0\wonderful5\app\libs\umeng-fb-v4.3.2.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="cdaa710c971bbcc51de6568c003448c0ebe5b7ad">
+        <dex dex="F:\Develop\Android\APPs\ForAS1.0\wonderful5\app\build\intermediates\pre-dexed\debug\umeng-fb-v4.3.2-b4e974986757cf869037c19636533453d005ddc6.jar" />
+    </item>
+    <item
+        jar="F:\Develop\Android\APPs\ForAS1.0\Wonderful4\app\libs\mta-sdk-1.0.0.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="1d1a215c3acd13ef011b8391cab495f7760c2a1d">
+        <dex dex="F:\Develop\Android\APPs\ForAS1.0\Wonderful4\app\build\intermediates\pre-dexed\debug\mta-sdk-1.0.0-3f5a9f54da37521a3a99772773e1a7caaf75fe61.jar" />
+    </item>
+    <item
+        jar="C:\Users\Kenber\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="F:\Develop\Android\APPs\ForAS1.0\Wonderful4\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0-09c85442cd576327301ca03034647743e2b82d87.jar" />
+    </item>
+    <item
+        jar="F:\Develop\Android\APPs\ForAS1.0\wonderful5\app\libs\universal-image-loader-1.9.1.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="296dfb44fbf31397c0306e60cb62e06ca40df07f">
+        <dex dex="F:\Develop\Android\APPs\ForAS1.0\wonderful5\app\build\intermediates\pre-dexed\debug\universal-image-loader-1.9.1-f2f709bd8277c609674a9a89fb11eae889676ed8.jar" />
+    </item>
+    <item
+        jar="F:\Develop\Android\APPs\ForAS1.0\wonderful5\app\libs\bmob_v3.1.2beta.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="45f4fb0327bbd01044da56dcf8cfb7826ea6e219">
+        <dex dex="F:\Develop\Android\APPs\ForAS1.0\wonderful5\app\build\intermediates\pre-dexed\debug\bmob_v3.1.2beta-46106fa032258442bcef7e80a5fb7158db9bb751.jar" />
+    </item>
+    <item
+        jar="F:\Develop\Android\APPs\ForAS1.0\Wonderful4\app\libs\open_sdk.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="af16b82c753e70cfea1761c8d43581287887e734">
+        <dex dex="F:\Develop\Android\APPs\ForAS1.0\Wonderful4\app\build\intermediates\pre-dexed\debug\open_sdk-b0ac3ad40a13cc9bc66acd994c19865538e59431.jar" />
+    </item>
+    <item
+        jar="F:\Develop\Android\APPs\ForAS1.0\wonderful5\app\libs\mta-sdk-1.0.0.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="1d1a215c3acd13ef011b8391cab495f7760c2a1d">
+        <dex dex="F:\Develop\Android\APPs\ForAS1.0\wonderful5\app\build\intermediates\pre-dexed\debug\mta-sdk-1.0.0-b091929540be74ef9a13e658bb477ceea9ab4f68.jar" />
+    </item>
+    <item
+        jar="F:\Develop\Android\APPs\ForAS1.0\Wonderful4\app\libs\com.umeng.message.lib.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="9140057eaca588de79a9c3d4ac47e188a3c0dc03">
+        <dex dex="F:\Develop\Android\APPs\ForAS1.0\Wonderful4\app\build\intermediates\pre-dexed\debug\com.umeng.message.lib-070cdd25b269fe8fda28001ee6a1fc09c07f5d58.jar" />
+    </item>
+    <item
+        jar="F:\Develop\Android\APPs\ForAS1.0\Wonderful4\app\libs\umeng-update-v2.4.2.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="e3b07785e04ffc3ce231da4731594424a07ed936">
+        <dex dex="F:\Develop\Android\APPs\ForAS1.0\Wonderful4\app\build\intermediates\pre-dexed\debug\umeng-update-v2.4.2-765a45f6dc9cb1d7831ae1c4d603e8133d53e860.jar" />
+    </item>
+    <item
+        jar="F:\Develop\Android\APPs\ForAS1.0\wonderful5\app\libs\umeng-update-v2.4.2.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="e3b07785e04ffc3ce231da4731594424a07ed936">
+        <dex dex="F:\Develop\Android\APPs\ForAS1.0\wonderful5\app\build\intermediates\pre-dexed\debug\umeng-update-v2.4.2-9ed75a05b5199d9c886167da8ca76aa2a1e899e7.jar" />
+    </item>
+    <item
+        jar="F:\Develop\Android\APPs\ForAS1.0\wonderful5\app\libs\YoumiSdk_v4.09_2014-06-16.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="160f21765370085650cbc089377fecb052903d17">
+        <dex dex="F:\Develop\Android\APPs\ForAS1.0\wonderful5\app\build\intermediates\pre-dexed\debug\YoumiSdk_v4.09_2014-06-16-582b929adaa1b0b836f75997d98b1393bfc54952.jar" />
+    </item>
+    <item
+        jar="F:\Develop\Android\APPs\ForAS1.0\Wonderful4\app\libs\umeng-fb-v4.3.2.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="cdaa710c971bbcc51de6568c003448c0ebe5b7ad">
+        <dex dex="F:\Develop\Android\APPs\ForAS1.0\Wonderful4\app\build\intermediates\pre-dexed\debug\umeng-fb-v4.3.2-746998b3755e93d539b6a3f2a931b29a617805c8.jar" />
+    </item>
+    <item
+        jar="F:\Develop\Android\APPs\ForAS1.0\wonderful5\app\libs\umeng-analytics-v5.2.3.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="dfe1fbfc1f76afed3ef2a847f471ef2d0adb34a2">
+        <dex dex="F:\Develop\Android\APPs\ForAS1.0\wonderful5\app\build\intermediates\pre-dexed\debug\umeng-analytics-v5.2.3-0fca13c5ce1e461a757324454aa52b87d9205e25.jar" />
+    </item>
+    <item
+        jar="F:\Develop\Android\APPs\ForAS1.0\Wonderful4\app\libs\universal-image-loader-1.9.1.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="296dfb44fbf31397c0306e60cb62e06ca40df07f">
+        <dex dex="F:\Develop\Android\APPs\ForAS1.0\Wonderful4\app\build\intermediates\pre-dexed\debug\universal-image-loader-1.9.1-9fd74eceec1b4b01663192b0b627e1b1085fa8c0.jar" />
+    </item>
+    <item
+        jar="F:\Develop\Android\APPs\ForAS1.0\Wonderful4\app\libs\bmob_v3.1.2beta.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="45f4fb0327bbd01044da56dcf8cfb7826ea6e219">
+        <dex dex="F:\Develop\Android\APPs\ForAS1.0\Wonderful4\app\build\intermediates\pre-dexed\debug\bmob_v3.1.2beta-2e30d589121739680c743cb0dfc4384ff6aea0ae.jar" />
+    </item>
+    <item
+        jar="F:\Develop\Android\APPs\ForAS1.0\Wonderful4\app\libs\umeng-analytics-v5.2.3.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="dfe1fbfc1f76afed3ef2a847f471ef2d0adb34a2">
+        <dex dex="F:\Develop\Android\APPs\ForAS1.0\Wonderful4\app\build\intermediates\pre-dexed\debug\umeng-analytics-v5.2.3-ab3d90c3a1fa64f427904713e544fe1b2d8a0fe4.jar" />
+    </item>
+    <item
+        jar="F:\Develop\Android\APPs\ForAS1.0\Wonderful4\app\libs\YoumiSdk_v4.09_2014-06-16.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="160f21765370085650cbc089377fecb052903d17">
+        <dex dex="F:\Develop\Android\APPs\ForAS1.0\Wonderful4\app\build\intermediates\pre-dexed\debug\YoumiSdk_v4.09_2014-06-16-20d1996722f4fdeb657fcfdf7e438353decaac6d.jar" />
+    </item>
+    <item
+        jar="F:\Develop\Android\APPs\ForAS1.0\wonderful5\app\libs\open_sdk.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="af16b82c753e70cfea1761c8d43581287887e734">
+        <dex dex="F:\Develop\Android\APPs\ForAS1.0\wonderful5\app\build\intermediates\pre-dexed\debug\open_sdk-f4c56b2fc40ccda3e18733c8f3a091d3d7a582da.jar" />
+    </item>
+
+</items>
